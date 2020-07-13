@@ -1,0 +1,24 @@
+body {
+  background-color: #e4e3e3;
+  font-family: Helvetica;
+}
+
+h1, h2 {
+  color: #99b898;
+  text-align: center;
+}
+
+
+table, th {
+  border: solid 1px;
+  margin: auto;
+}
+
+td {
+  border-bottom: 1px solid;
+  border-color: green;
+  }
+
+thead {
+ background-color: #a3f7bf;
+}
